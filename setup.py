@@ -5,7 +5,7 @@ with open('README.md', 'r', encoding='utf-8') as readme_file:
 
 setup(
     name='Audio-DeSilencer',
-    version='1.0.2',
+    version='1.0.3',
     description='An audio processing tool for detecting and removing silence in audio recordings.',
     author='Boutros Tawaifi',
     author_email='boutrous.m.tawaifi@gmail.com',
